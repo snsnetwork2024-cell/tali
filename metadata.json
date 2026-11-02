@@ -1,0 +1,6 @@
+{
+  "name": "TeleKhatta - MFS & Telecom POS Ledger",
+  "description": "bKash, Nagad, Rocket, Flexiload & Card POS shop ledger, customer khata, auto monthly profit reports, secure backups and mobile app control.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

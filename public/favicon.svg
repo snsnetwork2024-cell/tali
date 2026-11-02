@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#E11D48"/>
+  <circle cx="256" cy="256" r="160" fill="white" fill-opacity="0.15"/>
+  <!-- Phone device outline -->
+  <rect x="160" y="100" width="192" height="312" rx="28" stroke="white" stroke-width="20" fill="#0F172A"/>
+  <!-- Screen content: Bengali Taka Symbol ৳ -->
+  <text x="256" y="275" font-family="'Hind Siliguri', 'Plus Jakarta Sans', sans-serif" font-size="110" font-weight="bold" fill="#E11D48" text-anchor="middle">৳</text>
+  <rect x="220" y="125" width="72" height="8" rx="4" fill="#64748B"/>
+  <circle cx="256" cy="380" r="12" fill="#E2E8F0"/>
+</svg>
